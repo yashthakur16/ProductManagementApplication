@@ -1,4 +1,3 @@
----
 
 # Product Management Application
 
@@ -118,5 +117,3 @@ Contributions are welcome! To contribute:
 ## Acknowledgments
 
 - Thanks to the Spring Boot and open-source community for their valuable tools and libraries.
-
----
